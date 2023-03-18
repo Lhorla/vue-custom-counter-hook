@@ -2,6 +2,7 @@
   import NavBar from './components/NavBar.vue'
   import HomePage from './components/HomePage.vue'
   import FooterBar from './components/FooterBar.vue'
+  
 
   export default {
     name: 'App',
@@ -17,6 +18,7 @@
   <div class="wrapper">
     <NavBar />
     <HomePage />
+  
     <FooterBar />
   </div>
 </template>
