@@ -16,7 +16,6 @@
   </main>
 </template>
 
-
 <style>
   .counter{
     display: flex;
@@ -57,6 +56,9 @@
     border-radius: 10px;
     margin: 10px;
     background-color: #04D939;
+  }
+
+  .btn {
     color: #fff;
   }
 
