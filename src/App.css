@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: primaryFont;
+    src: url('../src/assets/Raleway-Regular.ttf');
+}
+
+@font-face {
+    font-family: secFont;
+    src: url('../src/assets/Raleway-ExtraBold.ttf');
+}
+  
+body{
+    background-color: #012340;
+    color: #fff;
+}
+  
+html{
+    font-size: 62.5%;
+}
