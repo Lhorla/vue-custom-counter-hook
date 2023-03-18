@@ -1,5 +1,5 @@
 <script>
-  import useCounter from '@/util/counter'
+  import useCounter from '@/composable/counter'
 
   export default {
     setup() {
